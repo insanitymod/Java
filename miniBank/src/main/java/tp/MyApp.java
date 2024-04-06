@@ -1,5 +1,4 @@
 package tp;
-
 import tp.dao.CompteDao;
 import tp.dao.CompteDaoSimu;
 import tp.data.Compte;
